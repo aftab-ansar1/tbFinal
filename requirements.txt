@@ -58,7 +58,7 @@ ndindex==1.9.2
 nest-asyncio==1.6.0
 networkx==3.4.2
 numexpr==2.10.2
-numpy==2.2.5
+numpy==1.26.0
 opencv-python==4.11.0.86
 opt_einsum==3.4.0
 optree==0.14.0
